@@ -148,6 +148,12 @@ hr {
 
 }
 
+#times {
+    background: url("../images/dublin-city.webp") no-repeat center center / cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;

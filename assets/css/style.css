@@ -305,11 +305,6 @@ hr {
         column-count: 3;
     }
 
-    #signup {
-        background-position: relative;
-        position: relative;
-    }
-
     #signup-form {
         position: absolute;
         max-width: 400px;
